@@ -1,6 +1,6 @@
 # Website Blocker
 
-Block websites at specific times to avoid distractions.
+Block websites during work hours and avoid distractions!
 
 Supports -
 - [x] Windows
@@ -8,7 +8,7 @@ Supports -
 - [x] macOS
 
 ### Pre-requisite
-Set appropriate values (or use defaults) in [defaults.py](https://github.com/abrasham-chowdhury/WebsiteBlocker/blob/main/defaults.py)
+Set appropriate values in [defaults.py](https://github.com/abrasham-chowdhury/WebsiteBlocker/blob/main/defaults.py)
 - Websites to block
 - Start and end time (in 24 hours)
 - Polling rate (in seconds)
