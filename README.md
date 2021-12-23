@@ -1,17 +1,17 @@
 # Website Blocker
 
-Block websites during work hours and avoid distractions!
-
-Supports -
-- [x] Windows
-- [x] Linux
-- [x] macOS
+Block distractions during work hours!
 
 ### Pre-requisite
 Set appropriate values in [defaults.py](https://github.com/abrasham-chowdhury/WebsiteBlocker/blob/main/defaults.py)
 - Websites to block
 - Start and end time (in 24 hours)
 - Polling rate (in seconds)
+
+Supports -
+- [x] Windows
+- [x] Linux
+- [x] macOS
 
 ### Run
 **Windows** (as administrator) -
