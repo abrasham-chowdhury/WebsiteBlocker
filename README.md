@@ -2,7 +2,7 @@
 
 Block distractions during work hours!
 
-### Pre-requisite
+## Pre-requisite
 Set appropriate values in [defaults.py](https://github.com/abrasham-chowdhury/WebsiteBlocker/blob/main/defaults.py)
 - Websites to block
 - Start and end time (in 24 hours)
@@ -13,14 +13,14 @@ Supports -
 - [x] Linux
 - [x] macOS
 
-### Run
+## Run
 **Windows** (as administrator) -
 - python blocker.py
 
 **Linux/macOS** -
 - sudo python blocker.py
 
-### Run in background
+## Run in background
 **Windows** (as administrator) -
 - Change extension of blocker.py to .pyw
 - Use Task Scheduler to run on startup (Check off 'Run with highest privileges')
